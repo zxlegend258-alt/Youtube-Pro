@@ -7,7 +7,7 @@
   "latest_version_code": 2,
   "update_available": true,
   "force_update": false,
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_title": "Under Maintenance",
   "maintenance_message": "We are temporarily updating our application. Please try again shortly.",
   "update_title": "New Update Available",
@@ -22,6 +22,6 @@
   "apk_size": "25 MB",
   "min_supported_version_code": 1,
   "show_update_dialog": true,
-  "checksum_sha256": "REPLACE_WITH_64_CHARACTER_SHA256_OF_THE_APK",
+  "checksum_sha256": "83906117d25c7bb963128b5c09a2734b6230eedf5184e231e1536f880bfa0e94",
   "support_message": "Contact support on Telegram: https://t.me/personal_yt"
 }
