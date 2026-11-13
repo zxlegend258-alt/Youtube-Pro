@@ -1,0 +1,27 @@
+{
+  "app_name": "YouTube Pro",
+  "package_name": "com.rajni.yt",
+  "version": "1.1",
+  "version_code": 2,
+  "latest_version": "1.1",
+  "latest_version_code": 2,
+  "update_available": true,
+  "force_update": false,
+  "maintenance_mode": false,
+  "maintenance_title": "Under Maintenance",
+  "maintenance_message": "We are temporarily updating our application. Please try again shortly.",
+  "update_title": "New Update Available",
+  "update_message": "A new version of YouTube Pro is available with new features and fixes.",
+  "release_date": "2026-11-13",
+  "changelog": [
+    "Fixed video loading issue",
+    "Improved application performance",
+    "Fixed minor bugs"
+  ],
+  "apk_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPOSITORY/releases/download/v1.1/youtube-pro-1.1.apk",
+  "apk_size": "25 MB",
+  "min_supported_version_code": 1,
+  "show_update_dialog": true,
+  "checksum_sha256": "REPLACE_WITH_64_CHARACTER_SHA256_OF_THE_APK",
+  "support_message": "Contact support on Telegram: https://t.me/personal_yt"
+}
